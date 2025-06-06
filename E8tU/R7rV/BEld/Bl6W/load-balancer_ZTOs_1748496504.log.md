@@ -19,7 +19,6 @@
 ### Adopter Types
 
 **End-user**: The organization runs MetalLB in production in some way.
-
 **Integration**: The organization has a product that integrates with MetalLB, but does not contain MetalLB.
 
 **Vendor**: The organization packages MetalLB in their product and sells it as part of their product.
