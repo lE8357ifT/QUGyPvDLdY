@@ -115,7 +115,6 @@ After you have exited the file, you can view the changes you made in the termina
 
 What did you think? Try doing this later with a different text editor to see the difference.
 
-
 ## Running a Python Script
 
 The last thing we will cover is using the command line to run Python code. We won't have you regularly do this for this course, but it is useful to know this is an option if you ever are working with a remote server. This is fairly common when you are working with sensitive or restricted-access data (i.e. medical records) or big data.
